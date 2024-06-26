@@ -71,7 +71,7 @@ a {
 
 .header .header__nav .header__logo::before,
 .header .header__nav .header__logo::after {
-    content: "WIG";
+    content: "BASE WIG";
     position: absolute;
     top: 0;
     left: 0;
